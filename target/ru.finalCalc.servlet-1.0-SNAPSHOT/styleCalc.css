@@ -1,0 +1,45 @@
+.sign {
+    border: solid 1px lightgrey;
+    height: 50px;
+    width: 62.5px;
+    background-color: lightgrey;
+    font: 25px solid sans-serif ;
+}
+
+#confirm {
+    border: solid 1px lightgrey;
+    height: 50px;
+    width: 62.5px;
+    background-color: lightgrey;
+    font: 25px solid sans-serif ;
+    position: absolute;
+    margin-left: -64px;
+    margin-top: 29px;
+}
+
+.num {
+    border: solid 1px lightgrey;
+    background-color: lightgrey;
+    font: 15px sans-serif;
+    width: 107px;
+    height: 30px;
+    margin-top: 5px;
+}
+
+#calculator {
+    margin-bottom: -10px;
+}
+
+#result {
+    width: 330px;
+}
+
+.reset{
+    border: solid 1px lightgrey;
+    background-color: lightgrey;
+    font: 15px sans-serif;
+    width: 107px;
+    height: 30px;
+    margin-top: 5px;
+
+}
